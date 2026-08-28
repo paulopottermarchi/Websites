@@ -1,4 +1,4 @@
-# projeto-site
+# web-prototype
 
 A simple static website built as a practice project for a Git and GitHub course. It's a small landing page that links out to two course pages, each embedding a YouTube tutorial video.
 
@@ -38,3 +38,5 @@ No build step required — just open `index.html` in a browser, or serve the fol
 ## License
 
 MIT © 2023 Paulo Potter
+
+![image](https://github.com/paulopottermarchi/projeto-site/assets/13683108/38ae0bc2-645a-482e-8831-f737b5ca35b1)
