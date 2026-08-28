@@ -11,7 +11,7 @@ A simple static website built as a practice project for a Git and GitHub course.
 ## Structure
 
 ```
-projeto-site/
+web-prototype/
 ├── index.html
 ├── curso-html.html
 ├── curso-js.html
